@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Java
+- 👨‍🎓 I’m a student in European Humanities University
+- 💬 Ask me about anything
